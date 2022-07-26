@@ -1,0 +1,1 @@
+void unique(int arr[],int n);

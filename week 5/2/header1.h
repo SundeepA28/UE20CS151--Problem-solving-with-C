@@ -1,0 +1,1 @@
+void replacechar(char *s,char c1,char c2);
