@@ -1,0 +1,3 @@
+Hi,Goood morning!
+Have a nice day
+Welcome to C programming- flie handling concepts
